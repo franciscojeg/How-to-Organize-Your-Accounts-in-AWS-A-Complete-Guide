@@ -62,8 +62,6 @@ RAM lets you share resources like VPC subnets, Transit Gateways, Route 53 Resolv
 
 Control Tower automates a landing zone with AWS‑managed guardrails, Account Factory and Core accounts (Log Archive and Audit) for governance and visibility. Guardrails come in three types—mandatory, strongly recommended, and elective—implemented with SCPs (preventive) and AWS Config (detective), and applied at OU level with inheritance.
 
-<img width="728" height="640" alt="image" src="https://github.com/user-attachments/assets/bf88ca58-0849-46d4-8420-710b200a9be8" />
-
 
 ## The Log Archive Account
 
